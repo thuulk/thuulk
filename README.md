@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hey there👋
 
-<!--
-**thuulk/thuulk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Diego, I am a sofware engineer who has mainly worked under constraint hardware; thus, I have developed a high proficiency in squeezing performance out of a computer.
 
-Here are some ideas to get you started:
+If there is an online service I can replace with my own program or a community Open Source alternative, I will host it in my server. Read more about this at https://github/thuulk/personal-cloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GNU/Linux nerd who loves total control of his system and automating and handling pipelines with orchestrators
+
+## Tech Stack 🛠️
+
+- C, C++, Python, Golang, Bash.
+- Git, GitHub Actions, Docker, Postman.
+- Tailscale and ssh for remote access and network security.
+- GNU/Linux systems.
+
+# Fun Facts
+- I align my endeavors to be part of the Quantumm Computing comunity.
+- I love efficiency, if there is a way to do it in C i will try to.
+
