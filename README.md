@@ -14,6 +14,6 @@ GNU/Linux nerd who loves total control of his system and automating and handling
 - GNU/Linux systems.
 
 ## Fun Facts 🌴
-- I align my endeavors to be part of the Quantumm Computing comunity.
+- I align my endeavors to be part of the Quantumm Computing community.
 - I love efficiency, if there is a way to do it in C i will try to.
 
