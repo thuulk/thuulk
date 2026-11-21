@@ -2,7 +2,7 @@
 
 My name is Diego, I am a sofware engineer who has mainly worked under constraint hardware; thus, I have developed a high proficiency in squeezing performance out of a computer.
 
-If there is an online service I can replace with my own program or a community Open Source alternative, I will host it in my server. Read more about this at https://github/thuulk/personal-cloud
+If there is an online service I can replace with my own program or a community Open Source alternative, I will host it in my own server. Read more about this at https://github/thuulk/personal-cloud
 
 GNU/Linux nerd who loves total control of his system and automating and handling pipelines with orchestrators
 
