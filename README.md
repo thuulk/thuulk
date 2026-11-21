@@ -1,4 +1,4 @@
-## Hey there👋
+## Hey there 👋
 
 My name is Diego, I am a sofware engineer who has mainly worked under constraint hardware; thus, I have developed a high proficiency in squeezing performance out of a computer.
 
